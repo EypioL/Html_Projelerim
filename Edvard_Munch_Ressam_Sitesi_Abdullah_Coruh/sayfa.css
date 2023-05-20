@@ -1,0 +1,632 @@
+#sayfa{
+    position: relative;
+    width: 1920px;
+    height: 4141px;
+    background: #ffffff;
+}
+#sayfa{
+    position: relative;
+    width: 1920px;
+    height: 3577px;
+
+    background: #FFFFFF;
+}
+#header{
+    z-index: 100;
+    position: fixed;
+    width: 1920px;
+    height: 68px;
+    left: 0px;
+    top: 0px;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    background: #ffffff;
+}
+#cizgi1{
+    position: absolute;
+width: 63px;
+height: 0px;
+left: 1425px;
+top: 32px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+}
+#cizgi2{
+    position: absolute;
+width: 63px;
+height: 0px;
+left: 1490px;
+top: 32px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+}
+#cizgi3{
+    position: absolute;
+width: 63px;
+height: 0px;
+left: 1575px;
+top: 32px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+}
+#cizgi4{
+    position: absolute;
+width: 63px;
+height: 0px;
+left: 1695px;
+top: 32px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+}
+#cizgi5{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 1920px;
+height: 0px;
+left: 0px;
+top: 164px;
+
+border: 1px solid #000000;
+}
+#anasayfayazi{
+    position: absolute;
+width: 600px;
+height: 133px;
+left: 798px;
+top: 85px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 65px;
+
+color: #000000;
+
+}
+#logo{
+    position: absolute;
+    width: 111px;
+    height: 68px;
+    left: 361px;
+    top: 10px;
+}
+#yazisi1{
+    
+position: absolute;
+width: 1390px;
+height: 101px;
+left: 455px;
+top: 1073px;
+z-index: 65578;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 83px;
+
+color: #000000;
+}
+#EN{
+    position: absolute;
+    width: 151px;
+    height: 61px;
+    left: 1473px;
+    top: 22px;
+    font-family: 'Old Standard TT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+#Aralogo{
+    position: absolute;
+width: 40px;
+height: 40px;
+left: 1529px;
+top: 22px;
+}
+#Ara{
+    position: absolute;
+    width: 151px;
+    height: 61px;
+    left: 1561px;
+    top: 24px;
+
+    font-family: 'Old Standard TT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+
+    color: #000000;
+
+}
+#menu{
+    position: absolute;
+    width: 26px;
+    height: 20px;
+    left: 1620px;
+    top: 22px;
+}
+#menu2{
+    position: absolute;
+    width: 151px;
+    height: 61px;
+    left: 1661px;
+    top: 24px;
+
+    font-family: 'Old Standard TT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+
+    color: #000000;
+}
+#banneraltifoto{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1920px;
+    height: 919px;
+    left: 0px;
+    top: 192px;
+    
+    border: 2px solid #000000;
+}
+
+#banneryazisi{
+    
+position: absolute;
+width: 943px;
+height: 101px;
+left: 130px;
+top: 663px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 65px;
+
+color: #FFFFFF;
+}
+
+#çizgi{
+    position: absolute;
+width: 682px;
+height: 0px;
+left: 180px;
+top: 1210px;
+
+border: 1px solid #000000;
+}
+#footerkutu{
+    box-sizing: border-box;
+
+position: absolute;
+width: 526px;
+height: 47px;
+left: 812px;
+top: 4216px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+}
+#kayitol{
+    position: absolute;
+width: 135px;
+height: 29px;
+left: 1230px;
+top: 4225px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #FFFFFF;
+
+}
+#altyazi{
+    position: absolute;
+width: 557px;
+height: 50px;
+left: 893px;
+top: 4287px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+}
+#footerkutu2{
+    
+position: absolute;
+width: 163px;
+height: 47px;
+left: 1186px;
+top: 4216px;
+
+background: #000000;
+}
+#cizgi6{
+    position: absolute;
+width: 1920px;
+height: 0px;
+left: 0px;
+top: 3999px;
+
+border: 1px solid #000000;
+}
+#yazilarim{
+    position: absolute;
+width: 213px;
+height: 48px;
+left: 623px;
+top: 4094px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+
+color: #000000;
+
+}
+#yazilarim2{
+    position: absolute;
+width: 178px;
+height: 29px;
+left: 950px;
+top: 4183px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+
+}
+#yazi{
+    position: absolute;
+width: 1606px;
+height: 521px;
+left: 290px;
+top: 1241px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 49px;
+
+color: #000000;
+}
+#kutusiyah{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1656px;
+height: 723px;
+left: 141px;
+top: 1196px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+}
+#çizgi2{
+    position: absolute;
+    width: 682px;
+    height: 0px;
+    left: 1105px;
+    top: 1906px;
+
+    border: 1px solid #000000;
+}
+#dikdörtgen2{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 1920px;
+height: 101px;
+left: 0px;
+top: 1060px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+}
+#dikdörtgenyazi2{
+    
+
+    position: absolute;
+    width: 925px;
+    height: 101px;
+    left: 506px;
+    top: 1965px;
+    
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 83px;
+    
+    color: #000000;
+    
+}
+#çizgi1{
+    position: absolute;
+    width: 1920px;
+    height: 0px;
+    left: 0px;
+    top: 1954px;
+    
+    border: 1px solid #000000;
+}
+#çizgi4{
+    position: absolute;
+    width: 1920px;
+    height: 0px;
+    left: 0px;
+    top: 2071px;
+    
+    border: 1px solid #000000;
+}
+#video{
+    position: absolute;
+    left: 0px;
+    top: 2139px;
+    z-index: 600;
+}
+
+
+#menutoggle {
+    opacity: 0;
+  }
+  #menutoggle:checked + .menubtn > span {
+    transform: rotate(45deg);
+  }
+  #menutoggle:checked + .menubtn > span::before {
+    top: 0;
+    transform: rotate(0deg);
+  }
+  #menutoggle:checked + .menubtn > span::after {
+    top: 0;
+    transform: rotate(90deg);
+  }
+  #menutoggle:checked ~ .menubox {
+    left: 0 !important;
+  }
+  .menubtn {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 1625px;
+    top: 37px;
+    z-index: 5;
+
+  }
+  .menubtn > span,
+  .menubtn > span::before,
+  .menubtn > span::after {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: #000000;
+    transition-duration: .25s;
+    z-index: 5;
+  }
+  .menubtn > span::before {
+    content: '';
+    top: -8px;
+    z-index: 5;
+  }
+  .menubtn > span::after {
+    content: '';
+    top: 8px;
+    z-index: 5;
+  }
+  .menubox {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: -100%;
+    width: 300px;
+    height: 100%;
+    margin: 0;
+    padding: 80px 0;
+    list-style: none;
+    background-color: #ECEFF1;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, .4);
+    transition-duration: .25s;
+    z-index: 5;
+  }
+  .menuitem {
+    display: block;
+    padding: 12px 24px;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    transition-duration: .25s;
+    z-index: 5;
+  }
+  .menuitem:hover {
+    background-color: #CFD8DC;
+  }
+
+  #yorumlar{
+    position: absolute;
+width: 876px;
+height: 95px;
+left: 829px;
+top: 3026px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 83px;
+
+color: #000000;
+
+  }
+  #ccizgi1{
+    position: absolute;
+width: 1920px;
+height: 0px;
+left: 0px;
+top: 3131px;
+
+border: 1px solid #000000;
+  }
+  #kutu1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 392px;
+height: 677px;
+left: 208px;
+top: 3190px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+  }
+  #kutu2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 392px;
+height: 691px;
+left: 802px;
+top: 3190px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+  }
+
+  #scrolltop {
+	position: fixed;
+    bottom: 15px;
+    right: 15px;
+    padding: 30px;
+    background-color: rgba(0,0,0,0.5);
+    background-image: url(yukari.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    border-radius: 5px;
+    display: block;
+    z-index: 9999;
+}
+
+  #kutu3{
+    box-sizing: border-box;
+
+position: absolute;
+width: 392px;
+height: 691px;
+left: 1406px;
+top: 3190px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+}
+
+
+#kuturesim1{
+    box-sizing: border-box;
+    position: absolute;
+    width: 392px;
+    height: 425px;
+    left: 208px;
+    top: 3176px;
+    border: 1px solid #000000;
+}
+#kuturesim2{
+    box-sizing: border-box;
+    position: absolute;
+    width: 392px;
+    height: 424.75px;
+    left: 802px;
+    top: 3176px; 
+    border: 1px solid #000000;
+    z-index: 2000px;
+}
+#kuturesim3{
+    box-sizing: border-box;
+    position: absolute;
+    width: 392px;
+    height: 424.75px;
+    left: 1406px;
+    top: 3176px;
+    border: 1px solid #000000;
+}
+#kutuyazisii1{
+    position: absolute;
+width: 370px;
+height: 193px;
+left: 219px;
+top: 3608px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+
+}
+#kutuyazisii2{
+    
+position: absolute;
+width: 370px;
+height: 193px;
+left: 824px;
+top: 3612px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+
+}
+#kutuyazisii3{
+    
+position: absolute;
+width: 370px;
+height: 193px;
+left: 1417px;
+top: 3612px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+
+}

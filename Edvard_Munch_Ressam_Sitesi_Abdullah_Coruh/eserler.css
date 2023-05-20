@@ -1,0 +1,783 @@
+#sayfa{
+    position: relative;
+    width: 1920px;
+    height: 3001px;
+    
+    background: #FFFFFF;
+}
+#sayfa{
+    position: relative;
+width: 1920px;
+height: 3001px;
+
+background: #FFFFFF;
+}
+#header{
+    z-index: 100;
+    position: fixed;
+    width: 1920px;
+    height: 68px;
+    left: 0px;
+    top: 0px;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    background: #ffffff;
+}
+#cizgi1{
+    position: absolute;
+width: 63px;
+height: 0px;
+left: 1425px;
+top: 32px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+}
+#cizgi2{
+    position: absolute;
+width: 63px;
+height: 0px;
+left: 1490px;
+top: 32px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+}
+#cizgi3{
+    position: absolute;
+width: 63px;
+height: 0px;
+left: 1575px;
+top: 32px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+}
+#cizgi4{
+    position: absolute;
+width: 63px;
+height: 0px;
+left: 1695px;
+top: 32px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+}
+#cizgi5{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 1920px;
+height: 0px;
+left: 0px;
+top: 164px;
+
+border: 1px solid #000000;
+}
+#anasayfayazi{
+    position: absolute;
+width: 600px;
+height: 133px;
+left: 768px;
+top: 85px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 65px;
+
+color: #000000;
+
+}
+#logo{
+    position: absolute;
+    width: 111px;
+    height: 68px;
+    left: 361px;
+    top: 10px;
+}
+#yazisi1{
+    
+position: absolute;
+width: 1390px;
+height: 101px;
+left: 455px;
+top: 1073px;
+z-index: 65578;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 83px;
+
+color: #000000;
+}
+#EN{
+    position: absolute;
+    width: 151px;
+    height: 61px;
+    left: 1473px;
+    top: 22px;
+    font-family: 'Old Standard TT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+#Aralogo{
+    position: absolute;
+width: 40px;
+height: 40px;
+left: 1529px;
+top: 22px;
+}
+#Ara{
+    position: absolute;
+    width: 151px;
+    height: 61px;
+    left: 1561px;
+    top: 24px;
+
+    font-family: 'Old Standard TT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+
+    color: #000000;
+
+}
+#menu{
+    position: absolute;
+    width: 26px;
+    height: 20px;
+    left: 1620px;
+    top: 22px;
+}
+#menu2{
+    position: absolute;
+    width: 151px;
+    height: 61px;
+    left: 1661px;
+    top: 24px;
+
+    font-family: 'Old Standard TT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+
+    color: #000000;
+}
+#slider{
+    position: absolute;
+width: 1561px;
+height: 471px;
+left: 180px;
+top: 6px;
+
+}
+#çizgi1{
+    
+position: absolute;
+width: 1920px;
+height: 0px;
+left: -1px;
+top: 822px;
+
+border: 1px solid #000000;
+}
+#yazi1{
+    position: absolute;
+width: 925px;
+height: 101px;
+left: 872px;
+top: 833px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 83px;
+
+color: #000000;
+}
+#çizgi2{
+    position: absolute;
+width: 1920px;
+height: 0px;
+left: -1px;
+top: 939px;
+
+border: 1px solid #000000;
+}
+.hastacocuk{
+    box-sizing: border-box;
+
+position: absolute;
+width: 428px;
+height: 674px;
+left: 180px;
+top: 1004px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+cursor: pointer;
+transition: 1s ease-in-out;
+transform-style: preserve-3d;
+background: url(hastacocuk.png);
+}
+.hastacocuk:hover{
+    transform: rotateY(0.5turn);
+    background: url(hastacocukyazi.png);
+}
+#hastacocuk1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 428px;
+height: 465px;
+left: 180px;
+top: 1004px;
+
+border: 1px solid #000000;
+
+}
+.kare1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 428px;
+height: 209px;
+left: 180px;
+top: 1469px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+}
+#kareyazisi{
+    position: absolute;
+width: 357px;
+height: 134px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+left: 15px;
+top: 20px;
+color: #000000;
+}
+.kare2{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 428px;
+height: 209px;
+left: 746px;
+top: 1469px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+}
+.sigara{
+    box-sizing: border-box;
+
+position: absolute;
+width: 428px;
+height: 674px;
+left: 1313px;
+top: 1004px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+cursor: pointer;
+transition: 1s ease-in-out;
+transform-style: preserve-3d;
+background: url(sigara.png);
+}
+.sigara:hover{
+    transform: rotateY(0.5turn);
+    background: url(sigaraile.png);
+}
+.kutu3{
+    box-sizing: border-box;
+
+position: absolute;
+width: 428px;
+height: 209px;
+left: 1313px;
+top: 1469px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+}
+.kutu3yazisi{
+    position: absolute;
+width: 302px;
+height: 134px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+
+color: #000000;
+}
+.kutu4{
+    box-sizing: border-box;
+
+position: absolute;
+width: 428px;
+height: 674px;
+left: 402px;
+top: 1854px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+cursor: pointer;
+transition: 1s ease-in-out;
+transform-style: preserve-3d;
+background: url(öp.png);
+
+}
+
+.kutu4:hover{
+    transform: rotateY(0.5turn);
+    background: url(oppp.png);
+}
+
+.kutu4kutu{
+    box-sizing: border-box;
+
+position: absolute;
+width: 428px;
+height: 209px;
+left: 402px;
+top: 2319px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+}
+.kutu4yazi{
+    position: absolute;
+width: 357px;
+height: 134px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+top: 20px;
+
+color: #000000;
+
+}
+.koprude{
+    box-sizing: border-box;
+
+position: absolute;
+width: 428px;
+height: 674px;
+left: 1098px;
+top: 1854px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+cursor: pointer;
+transition: 1s ease-in-out;
+transform-style: preserve-3d;
+background: url(kopru.png);
+}
+.koprude:hover{
+    transform: rotateY(0.5turn);
+    background: url(koop.png);
+}
+.kutu5{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 428px;
+    height: 209px;
+    left: 1098px;
+    top: 2319px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    
+
+}
+.kutu5yazi{
+    position: absolute;
+width: 357px;
+height: 134px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+
+color: #000000;
+
+}
+#cz{
+    position: absolute;
+width: 1928px;
+height: 0px;
+left: -8px;
+top: 2672px;
+
+border: 1px solid #000000;
+}
+#yazi2{
+    
+position: absolute;
+width: 213px;
+height: 283px;
+left: 634px;
+top: 2718px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+
+color: #000000;
+
+}
+#yazi22{
+    position: absolute;
+width: 178px;
+height: 29px;
+left: 961px;
+top: 2807px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+}
+#footerkutu{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 526px;
+height: 47px;
+left: 830px;
+top: 2859px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+}
+#kayitol{
+    position: absolute;
+width: 135px;
+height: 29px;
+left: 1243px;
+top: 2868px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #FFFFFF;
+}
+#footerkutu2{
+    
+position: absolute;
+width: 163px;
+height: 47px;
+left: 1199px;
+top: 2859px;
+
+background: #000000;
+}
+#altyazi{
+    position: absolute;
+width: 557px;
+height: 50px;
+left: 906px;
+top: 2930px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+
+}
+
+#çizgiii{
+    position: absolute;
+width: 1920px;
+height: 0px;
+left: 0px;
+top: 1762px;
+
+border: 1px solid #000000;
+}
+.kareyazisi2{
+    
+    position: absolute;
+width: 357px;
+height: 134px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+
+top: 20px;
+
+color: #000000;
+    
+}
+.Ci{
+    box-sizing: border-box;
+
+position: absolute;
+width: 428px;
+height: 674px;
+left: 746px;
+top: 1004px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+cursor: pointer;
+transition: 1s ease-in-out;
+transform-style: preserve-3d;
+background: url(Ciglik.png);
+}
+.Ci:hover{
+    transform: rotateY(0.5turn);
+    background: url(ciyazi.png);
+}
+
+#menutoggle {
+    opacity: 0;
+  }
+  #menutoggle:checked + .menubtn > span {
+    transform: rotate(45deg);
+  }
+  #menutoggle:checked + .menubtn > span::before {
+    top: 0;
+    transform: rotate(0deg);
+  }
+  #menutoggle:checked + .menubtn > span::after {
+    top: 0;
+    transform: rotate(90deg);
+  }
+  #menutoggle:checked ~ .menubox {
+    left: 0 !important;
+  }
+  .menubtn {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 1625px;
+    top: 37px;
+    z-index: 5;
+
+  }
+  .menubtn > span,
+  .menubtn > span::before,
+  .menubtn > span::after {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: #000000;
+    transition-duration: .25s;
+    z-index: 5;
+  }
+  .menubtn > span::before {
+    content: '';
+    top: -8px;
+    z-index: 5;
+  }
+  .menubtn > span::after {
+    content: '';
+    top: 8px;
+    z-index: 5;
+  }
+  .menubox {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: -100%;
+    width: 300px;
+    height: 100%;
+    margin: 0;
+    padding: 80px 0;
+    list-style: none;
+    background-color: #ECEFF1;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, .4);
+    transition-duration: .25s;
+    z-index: 5;
+  }
+  .menuitem {
+    display: block;
+    padding: 12px 24px;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    transition-duration: .25s;
+    z-index: 5;
+  }
+  .menuitem:hover {
+    background-color: #CFD8DC;
+  }
+
+  i {
+    position: relative;
+    display: block;
+    width: 500px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 5px;
+    width: 1000px;
+    height: 600px;
+    top: 200px;
+    left: 300px;
+
+}
+
+i:before, i:after {
+    content: '⥪';
+    position: absolute;
+    top: 50%;
+    left: 1rem;
+    z-index: 2;
+    width: 2rem;
+    height: 2rem;
+    background: rgb(0, 0, 0);
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    pointer-events: none;
+}
+
+i:after {
+    content: '⥭';
+    left: auto;
+    right: 1rem;
+}
+
+/* I haven't found a way for IE and Edge to let me style inputs that way */
+input {
+    appearance: none;
+    -ms-appearance: none;
+    -webkit-appearance: none;
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transform: translateX(100%);
+    transition: transform ease-in-out 400ms;
+    z-index: 1;
+}
+
+input:focus {
+    outline: none;
+}
+
+input:after {
+    content: attr(title);
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    background-color: rgba(0,0,0,0.4);
+    color: white;
+    padding: .5rem;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+
+input:not(checked):before {
+    content: '';
+    position: absolute;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    top: 50%;
+    left: calc(-100% + 1rem);
+}
+
+input:checked:before {
+    display: none;
+    left: 1rem;
+}
+
+input:checked {
+    transform: translateX(0);
+    pointer-events: none;
+    z-index: 0;
+    box-shadow: -5px 10px 20px -15px rgba(0,0,0,1);
+}
+
+input:checked + input:before {
+    left: -3rem;
+}
+
+input:checked + input ~ input:before {
+    display: none;
+}
+
+#scrolltop {
+	position: fixed;
+    bottom: 15px;
+    right: 15px;
+    padding: 30px;
+    background-color: rgba(0,0,0,0.5);
+    background-image: url(yukari.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    border-radius: 5px;
+    display: block;
+    z-index: 9999;
+}
+
+
+
+
+
+
+
+
+
+
+
+  

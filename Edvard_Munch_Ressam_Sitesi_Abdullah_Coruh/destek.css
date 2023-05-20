@@ -1,0 +1,492 @@
+#sayfa{
+    position: relative;
+width: 1920px;
+height: 1265px;
+
+background: #FFFFFF;
+}
+#nav{
+            
+    position: absolute;
+    width: 682px;
+    height: 495px;
+    left: 1027px;
+    top: 250px;
+    
+            }
+#header{
+  z-index: 100;
+    position: fixed;
+    width: 1920px;
+    height: 68px;
+    left: 0px;
+    top: 0px;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    background: #ffffff;
+}
+#iletisimbilgi{
+    position: absolute;
+width: 276px;
+height: 118px;
+left: 384px;
+top: 261px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+
+color: #000000;
+
+}
+#adres{
+    
+position: absolute;
+width: 66px;
+height: 31px;
+left: 384px;
+top: 358px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #000000;
+
+}
+#adresim{
+    
+position: absolute;
+width: 454px;
+height: 31px;
+left: 391px;
+top: 417px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #4E4E4E;
+
+
+}
+#Telefon{
+    position: absolute;
+width: 83px;
+height: 31px;
+left: 385px;
+top: 476px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #000000;
+
+}
+#Telefonum{
+    position: absolute;
+width: 309px;
+height: 31px;
+left: 391px;
+top: 535px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #4E4E4E;
+
+}
+#mail{
+    position: absolute;
+width: 51px;
+height: 31px;
+left: 386px;
+top: 604px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #000000;
+
+}
+#mailim{
+    position: absolute;
+width: 309px;
+height: 31px;
+left: 391px;
+top: 663px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #4E4E4E;
+
+}
+#cizgi1{
+    position: absolute;
+width: 63px;
+height: 0px;
+left: 1425px;
+top: 32px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+}
+#cizgi2{
+    position: absolute;
+width: 63px;
+height: 0px;
+left: 1490px;
+top: 32px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+}
+#cizgi3{
+    position: absolute;
+width: 63px;
+height: 0px;
+left: 1575px;
+top: 32px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+}
+#cizgi4{
+    position: absolute;
+width: 63px;
+height: 0px;
+left: 1695px;
+top: 32px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+}
+#cizgi5{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 1920px;
+height: 0px;
+left: 0px;
+top: 164px;
+
+border: 1px solid #000000;
+}
+#anasayfayazi{
+    position: absolute;
+width: 600px;
+height: 133px;
+left: 798px;
+top: 85px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 65px;
+
+color: #000000;
+
+}
+#logo{
+    position: absolute;
+    width: 111px;
+    height: 68px;
+    left: 361px;
+    top: 10px;
+}
+#yazisi1{
+    
+position: absolute;
+width: 1390px;
+height: 101px;
+left: 455px;
+top: 1073px;
+z-index: 65578;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 83px;
+
+color: #000000;
+}
+#EN{
+    position: absolute;
+    width: 151px;
+    height: 61px;
+    left: 1473px;
+    top: 22px;
+    font-family: 'Old Standard TT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+#Aralogo{
+    position: absolute;
+width: 40px;
+height: 40px;
+left: 1529px;
+top: 22px;
+}
+#Ara{
+    position: absolute;
+    width: 151px;
+    height: 61px;
+    left: 1561px;
+    top: 24px;
+
+    font-family: 'Old Standard TT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+
+    color: #000000;
+
+}
+#menu{
+    position: absolute;
+    width: 26px;
+    height: 20px;
+    left: 1620px;
+    top: 22px;
+}
+#menu2{
+    position: absolute;
+    width: 151px;
+    height: 61px;
+    left: 1661px;
+    top: 24px;
+
+    font-family: 'Old Standard TT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+
+    color: #000000;
+}
+
+#menutoggle {
+    opacity: 0;
+  }
+  #menutoggle:checked + .menubtn > span {
+    transform: rotate(45deg);
+  }
+  #menutoggle:checked + .menubtn > span::before {
+    top: 0;
+    transform: rotate(0deg);
+  }
+  #menutoggle:checked + .menubtn > span::after {
+    top: 0;
+    transform: rotate(90deg);
+  }
+  #menutoggle:checked ~ .menubox {
+    left: 0 !important;
+  }
+  .menubtn {
+    position: absolute;
+    width: 61px;
+    height: 61px;
+    left: 1591px;
+    top: 66px;
+    z-index: 5;
+
+  }
+  #menutoggle {
+    opacity: 0;
+  }
+  #menutoggle:checked + .menubtn > span {
+    transform: rotate(45deg);
+  }
+  #menutoggle:checked + .menubtn > span::before {
+    top: 0;
+    transform: rotate(0deg);
+  }
+  #menutoggle:checked + .menubtn > span::after {
+    top: 0;
+    transform: rotate(90deg);
+  }
+  #menutoggle:checked ~ .menubox {
+    left: 0 !important;
+  }
+  .menubtn {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 1625px;
+    top: 37px;
+    z-index: 5;
+
+  }
+  .menubtn > span,
+  .menubtn > span::before,
+  .menubtn > span::after {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: #000000;
+    transition-duration: .25s;
+    z-index: 5;
+  }
+  .menubtn > span::before {
+    content: '';
+    top: -8px;
+    z-index: 5;
+  }
+  .menubtn > span::after {
+    content: '';
+    top: 8px;
+    z-index: 5;
+  }
+  .menubox {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: -100%;
+    width: 300px;
+    height: 100%;
+    margin: 0;
+    padding: 80px 0;
+    list-style: none;
+    background-color: #ECEFF1;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, .4);
+    transition-duration: .25s;
+    z-index: 5;
+  }
+  .menuitem {
+    display: block;
+    padding: 12px 24px;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    transition-duration: .25s;
+    z-index: 5;
+  }
+  .menuitem:hover {
+    background-color: #CFD8DC;
+  }
+
+
+  #cz{
+    position: absolute;
+width: 1928px;
+height: 0px;
+left: -8px;
+top: 957px;
+
+border: 1px solid #000000;
+
+}
+#yazi2{
+    position: absolute;
+width: 213px;
+height: 48px;
+left: 634px;
+top: 1003px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+
+color: #000000;
+
+}
+#yazi22{
+    position: absolute;
+width: 178px;
+height: 29px;
+left: 961px;
+top: 1092px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+
+}
+#footerkutu{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 526px;
+height: 47px;
+left: 825px;
+top: 1144px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+}
+#footerkutu2{
+    position: absolute;
+width: 163px;
+height: 47px;
+left: 1199px;
+top: 1144px;
+
+background: #000000;
+}
+#kayitol{
+    position: absolute;
+width: 135px;
+height: 29px;
+left: 1243px;
+top: 1153px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #FFFFFF;
+}
+#altyazi{
+    position: absolute;
+width: 557px;
+height: 50px;
+left: 906px;
+top: 1215px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+
+}

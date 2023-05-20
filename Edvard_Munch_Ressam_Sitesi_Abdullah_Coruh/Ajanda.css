@@ -1,0 +1,2128 @@
+#sayfa{
+    position: relative;
+width: 1920px;
+height: 3001px;
+
+background: #FFFFFF;
+}
+#sayfa{
+    position: relative;
+width: 1920px;
+height: 3001px;
+
+background: #FFFFFF;
+}
+#header{
+    position: fixed;
+    width: 1920px;
+    height: 68px;
+    left: 0px;
+    top: 0px;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    background: #ffffff;
+    z-index: 100;
+}
+#cizgi1{
+    position: absolute;
+width: 63px;
+height: 0px;
+left: 1425px;
+top: 32px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+}
+#cizgi2{
+    position: absolute;
+width: 63px;
+height: 0px;
+left: 1490px;
+top: 32px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+}
+#cizgi3{
+    position: absolute;
+width: 63px;
+height: 0px;
+left: 1575px;
+top: 32px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+}
+#cizgi4{
+    position: absolute;
+width: 63px;
+height: 0px;
+left: 1695px;
+top: 32px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+}
+#cizgi5{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 1920px;
+height: 0px;
+left: 0px;
+top: 164px;
+
+border: 1px solid #000000;
+}
+#anasayfayazi{
+    position: absolute;
+width: 600px;
+height: 133px;
+left: 820px;
+top: 85px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 65px;
+
+color: #000000;
+
+}
+#cizgi22{
+    position: absolute;
+    width: 1920px;
+    height: 0px;
+    left: -1px;
+    top: 1086px;
+    
+    border: 1px solid #000000;
+}
+#logo{
+    position: absolute;
+    width: 111px;
+    height: 68px;
+    left: 361px;
+    top: 10px;
+}
+#yazisi1{
+    
+position: absolute;
+width: 1390px;
+height: 101px;
+left: 455px;
+top: 1073px;
+z-index: 65578;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 83px;
+
+color: #000000;
+}
+#EN{
+    position: absolute;
+    width: 151px;
+    height: 61px;
+    left: 1473px;
+    top: 22px;
+    font-family: 'Old Standard TT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+#Aralogo{
+    position: absolute;
+width: 40px;
+height: 40px;
+left: 1529px;
+top: 22px;
+}
+#Ara{
+    position: absolute;
+    width: 151px;
+    height: 61px;
+    left: 1561px;
+    top: 24px;
+
+    font-family: 'Old Standard TT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+
+    color: #000000;
+
+}
+#menu{
+    position: absolute;
+    width: 26px;
+    height: 20px;
+    left: 1620px;
+    top: 22px;
+}
+#menu2{
+    position: absolute;
+    width: 151px;
+    height: 61px;
+    left: 1661px;
+    top: 24px;
+
+    font-family: 'Old Standard TT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+
+    color: #000000;
+}
+#cizgi11{
+    position: absolute;
+width: 1920px;
+height: 0px;
+left: -1px;
+top: 969px;
+
+border: 1px solid #000000;
+
+}
+#mayis{
+    position: absolute;
+width: 925px;
+height: 101px;
+left: 764px;
+top: 977px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 83px;
+
+color: #000000;
+
+
+}
+#pazartesi{
+    box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 1224px;
+left: 38px;
+top: 1283px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+}
+#sali{
+    box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 1224px;
+left: 419px;
+top: 1283px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+}
+#carsamba{
+    box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 1224px;
+left: 795px;
+top: 1283px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+}
+#persembe{
+    box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 1224px;
+left: 1181px;
+top: 1283px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+}
+#cuma{
+    box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 1224px;
+left: 1562px;
+top: 1283px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+}
+#pazartesikutu{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 296px;
+height: 75px;
+left: 51px;
+top: 1291px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+}
+#pazartesiyazi{
+    position: absolute;
+width: 245px;
+height: 60px;
+left: 120px;
+top: 1299px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+
+color: #000000;
+
+
+}
+#salikutu{
+    box-sizing: border-box;
+
+position: absolute;
+width: 296px;
+height: 75px;
+left: 432px;
+top: 1291px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+}
+#carsambakutu{
+    box-sizing: border-box;
+
+position: absolute;
+width: 296px;
+height: 75px;
+left: 808px;
+top: 1291px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+}
+#saliyazi{
+    position: absolute;
+    width: 245px;
+    height: 60px;
+    left: 550px;
+    top: 1299px;
+    
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+    
+    color: #000000;
+}
+#carsambayazi{
+    
+position: absolute;
+width: 245px;
+height: 60px;
+left: 880px;
+top: 1301px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+
+color: #000000;
+
+
+}
+#persembekutu{
+    box-sizing: border-box;
+
+position: absolute;
+width: 296px;
+height: 75px;
+left: 1194px;
+top: 1291px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+}
+#persembeyazi
+{
+    position: absolute;
+width: 245px;
+height: 60px;
+left: 1270px;
+top: 1306px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+
+color: #000000;
+}
+
+#cumakutu{
+    box-sizing: border-box;
+
+position: absolute;
+width: 296px;
+height: 75px;
+left: 1575px;
+top: 1291px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+}
+#cumayazi{
+    position: absolute;
+width: 245px;
+height: 60px;
+left: 1689px;
+top: 1306px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+
+color: #000000;
+
+
+}
+#pazartesi2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 296px;
+height: 77px;
+left: 51px;
+top: 1380px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+}
+#sali2{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 296px;
+height: 77px;
+left: 430px;
+top: 1380px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+}
+#carsamba2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 296px;
+height: 77px;
+left: 806px;
+top: 1380px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+
+}
+#persembe2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 296px;
+height: 77px;
+left: 1192px;
+top: 1380px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+}
+#cuma2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 296px;
+height: 77px;
+left: 1573px;
+top: 1380px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+}
+#pazartesirakam{
+    position: absolute;
+width: 88px;
+height: 27px;
+left: 86px;
+top: 1392px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+
+color: #000000;
+}
+#salirakam{
+    position: absolute;
+width: 88px;
+height: 27px;
+left: 475px;
+top: 1392px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+
+color: #000000;
+
+}
+#carsambarakam{
+    position: absolute;
+width: 88px;
+height: 27px;
+left: 844px;
+top: 1392px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+
+color: #000000;
+
+}
+#persemberakam{
+    position: absolute;
+width: 88px;
+height: 27px;
+left: 1223px;
+top: 1392px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+
+color: #000000;
+}
+#cumarakam{
+    position: absolute;
+width: 88px;
+height: 27px;
+left: 1609px;
+top: 1392px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+
+color: #000000;
+}
+#sergiler1{
+    position: absolute;
+width: 210px;
+height: 32px;
+left: 71px;
+top: 1501px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+
+color: #000000;
+}
+#sergiler2{
+    position: absolute;
+width: 210px;
+height: 32px;
+left: 458px;
+top: 1502px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+#sergiler3{
+    position: absolute;
+width: 210px;
+height: 32px;
+left: 827px;
+top: 1501px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+#sergiler4{
+    
+position: absolute;
+width: 210px;
+height: 32px;
+left: 1218px;
+top: 1501px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+
+color: #000000;
+}
+#sergiler5{
+    position: absolute;
+width: 210px;
+height: 32px;
+left: 1609px;
+top: 1501px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+#sergicizgi{
+    position: absolute;
+width: 243px;
+height: 0px;
+left: 71px;
+top: 1547px;
+
+border: 1px solid #000000;
+}
+#sergicizgi2{
+    position: absolute;
+width: 243px;
+height: 0px;
+left: 458px;
+top: 1548px;
+
+border: 1px solid #000000;
+}
+#sergicizgi3{
+    position: absolute;
+width: 243px;
+height: 0px;
+left: 827px;
+top: 1548px;
+
+border: 1px solid #000000;
+}
+#sergicizgi4{
+    position: absolute;
+width: 243px;
+height: 0px;
+left: 1218px;
+top: 1548px;
+
+border: 1px solid #000000;
+}
+#sergicizgi5{
+    position: absolute;
+width: 243px;
+height: 0px;
+left: 1609px;
+top: 1548px;
+
+border: 1px solid #000000;
+
+}
+.zaman{
+    position: absolute;
+width: 240px;
+height: 54px;
+left: 71px;
+top: 1569px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+}
+.zaman .zamantext {
+    visibility: hidden;
+    width: 250px;
+    height:400px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  .zaman:hover .zamantext {
+    visibility: visible;
+  }
+.kesisen{
+    
+position: absolute;
+width: 240px;
+height: 54px;
+left: 71px;
+top: 1637px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+}
+.kesisen .kesisentext {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  .kesisen:hover .kesisentext {
+    visibility: visible;
+  }
+.osman{
+    position: absolute;
+width: 240px;
+height: 54px;
+left: 71px;
+top: 1705px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+
+}
+.osman .osmantext {
+        visibility: hidden;
+        width: 257px;
+        height:466px;
+        background-color:rgb(255, 255, 255);
+        color: #000000;
+        border: 1px solid #000000;
+        text-align: center;
+        padding: 5px 0;
+      
+        /* Position the tooltip */
+        position: absolute;
+        z-index: 1;
+}
+.osman:hover .osmantext {
+        visibility: visible;
+}
+
+#proje{
+    position: absolute;
+width: 210px;
+height: 32px;
+left: 71px;
+top: 1792px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+#projecizgi{
+    position: absolute;
+width: 243px;
+height: 0px;
+left: 71px;
+top: 1838px;
+
+border: 1px solid #000000;
+
+}
+.voro{
+    position: absolute;
+width: 240px;
+height: 55px;
+left: 71px;
+top: 1870px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+}
+.voro .vorotext {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.voro:hover .vorotext {
+    visibility: visible;
+}
+
+.akustik{
+    position: absolute;
+width: 240px;
+height: 55px;
+left: 71px;
+top: 1925px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+}
+.akustik .akustiktext {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.akustik:hover .akustiktext {
+    visibility: visible;
+}
+#foto1{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 320px;
+    height: 214px;
+    left: 38px;
+    top: 2141px;
+    
+    border: 1px solid #000000;
+}
+
+.zaman2{
+    position: absolute;
+width: 240px;
+height: 54px;
+left: 458px;
+top: 1569px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+}
+.zaman2 .zamantext2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.zaman2:hover .zamantext2{
+    visibility: visible;
+}
+
+.kesisen2{
+    
+    position: absolute;
+    width: 240px;
+    height: 54px;
+    left: 458px;
+    top: 1637px;
+    
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    
+    color: #353535;
+
+}
+
+.kesisen2 .kesisentext2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.kesisen2:hover .kesisentext2{
+    visibility: visible;
+}
+.osman2{
+    position: absolute;
+width: 240px;
+height: 54px;
+left: 458px;
+top: 1705px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+
+}
+.osman2 .osman2text2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.osman2:hover .osman2text2{
+    visibility: visible;
+}
+#proje2{
+    position: absolute;
+width: 210px;
+height: 32px;
+left: 458px;
+top: 1792px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+}
+#projecizgi2{
+    position: absolute;
+    width: 243px;
+    height: 0px;
+    left: 458px;
+    top: 1838px;
+    
+    border: 1px solid #000000;    
+
+}
+.voro2{
+    position: absolute;
+width: 240px;
+height: 55px;
+left: 458px;
+top: 1870px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+}
+.voro2 .voro2text2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.voro2:hover .voro2text2{
+    visibility: visible;
+}
+.akustik2{
+    position: absolute;
+width: 240px;
+height: 55px;
+left: 458px;
+top: 1925px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+}
+
+.akustik2 .akustik2text2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.akustik2:hover .akustik2text2{
+    visibility: visible;
+}
+#foto2{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 320px;
+height: 214px;
+left: 419px;
+top: 2141px;
+
+border: 1px solid #000000;
+}
+
+
+
+
+.zaman3{
+    position: absolute;
+width: 240px;
+height: 54px;
+left: 827px;
+top: 1569px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+
+}
+.zaman3 .zaman3text2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.zaman3:hover .zaman3text2{
+    visibility: visible;
+}
+.kesisen3{
+    
+    position: absolute;
+width: 240px;
+height: 54px;
+left: 827px;
+top: 1637px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+
+}
+.kesisen3 .kesisen3text2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.kesisen3:hover .kesisen3text2{
+    visibility: visible;
+}
+
+.osman3{
+    position: absolute;
+width: 240px;
+height: 54px;
+left: 827px;
+top: 1705px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+
+}
+.osman3 .osman3text2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.osman3:hover .osman3text2{
+    visibility: visible;
+}
+#proje3{
+    position: absolute;
+width: 210px;
+height: 32px;
+left: 827px;
+top: 1792px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+
+}
+#projecizgi3{
+    position: absolute;
+width: 243px;
+height: 0px;
+left: 827px;
+top: 1838px;
+
+border: 1px solid #000000;
+
+
+}
+.voro3{
+    
+position: absolute;
+width: 240px;
+height: 55px;
+left: 827px;
+top: 1870px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+}
+
+.voro3 .voro3text2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.voro3:hover .voro3text2{
+    visibility: visible;
+}
+.akustik3{
+    position: absolute;
+width: 240px;
+height: 55px;
+left: 827px;
+top: 1925px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+
+}
+
+.akustik3 .akustik3text2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.akustik3:hover .akustik3text2{
+    visibility: visible;
+}
+#foto3{
+    
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 322px;
+    height: 214px;
+    left: 795px;
+    top: 2141px;
+    border: 1px solid #000000;
+}
+
+
+
+.zaman4{
+    position: absolute;
+width: 240px;
+height: 54px;
+left: 1223px;
+top: 1569px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+
+
+}
+
+.zaman4 .zaman4text2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.zaman4:hover .zaman4text2{
+    visibility: visible;
+}
+.kesisen4{
+    
+    position: absolute;
+width: 240px;
+height: 54px;
+left: 1223px;
+top: 1637px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+
+}
+.kesisen4 .kesisen4text2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.kesisen4:hover .kesisen4text2{
+    visibility: visible;
+}
+.osman4{
+    position: absolute;
+    width: 240px;
+    height: 54px;
+    left: 1223px;
+    top: 1705px;
+    
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    
+    color: #353535;
+
+}
+.osman4 .osman4text2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.osman4:hover .osman4text2{
+    visibility: visible;
+}
+#proje4{
+    position: absolute;
+    width: 210px;
+    height: 32px;
+    left: 1223px;
+    top: 1792px;
+    
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+#projecizgi4{
+    position: absolute;
+    width: 243px;
+    height: 0px;
+    left: 1223px;
+    top: 1838px;
+    
+    border: 1px solid #000000;
+}
+.voro4{
+    
+   
+position: absolute;
+width: 240px;
+height: 55px;
+left: 1223px;
+top: 1870px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+
+}
+
+.voro4 .voro4text2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.voro4:hover .voro4text2{
+    visibility: visible;
+}
+.akustik4{
+    position: absolute;
+    width: 240px;
+    height: 55px;
+    left: 1223px;
+    top: 1925px;
+    
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    
+    color: #353535;    
+}
+
+.akustik4 .akustik4text2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.akustik4:hover .akustik4text2{
+    visibility: visible;
+}
+
+#foto4{
+    
+    box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 214px;
+left: 1179px;
+top: 2141px;
+
+border: 1px solid #000000;
+
+}
+
+
+.zaman5{
+    position: absolute;
+    width: 240px;
+    height: 54px;
+    left: 1609px;
+    top: 1569px;
+    
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    
+    color: #353535;    
+
+}
+.zaman5 .zaman5text2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.zaman5:hover .zaman5text2{
+    visibility: visible;
+    right:300px;
+}
+.kesisen5{
+   
+position: absolute;
+width: 240px;
+height: 54px;
+left: 1609px;
+top: 1637px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+
+
+
+}
+
+.kesisen5 .kesisen5text2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.kesisen5:hover .kesisen5text2{
+    visibility: visible;
+    right:300px;
+}
+
+.osman5{
+    position: absolute;
+width: 240px;
+height: 54px;
+left: 1609px;
+top: 1705px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+}
+
+.osman5 .osman5text2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.osman5:hover .osman5text2{
+    visibility: visible;
+    right:300px;
+}
+
+#proje5{
+    position: absolute;
+    width: 210px;
+    height: 32px;
+    left: 1609px;
+    top: 1792px;
+    
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31px;
+    /* identical to box height */
+    color: #000000;
+    
+}
+#projecizgi5{
+    position: absolute;
+width: 243px;
+height: 0px;
+left: 1609px;
+top: 1838px;
+
+border: 1px solid #000000;
+
+}
+.voro5{
+    position: absolute;
+    width: 240px;
+    height: 55px;
+    left: 1609px;
+    top: 1870px;
+    
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    
+    color: #353535;
+
+}
+
+.voro5 .voro5text2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.voro5:hover .voro5text2{
+    visibility: visible;
+    right:300px;
+}
+.akustik5{
+    position: absolute;
+width: 240px;
+height: 55px;
+left: 1609px;
+top: 1925px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #353535;
+
+}
+
+.akustik5 .akustik5text2 {
+    visibility: hidden;
+    width: 257px;
+    height:466px;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.akustik5:hover .akustik5text2{
+    visibility: visible;
+    right:300px;
+}
+#foto5{
+    
+    box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 214px;
+left: 1562px;
+top: 2141px;
+border: 1px solid #000000;
+}
+
+#scrolltop {
+	position: fixed;
+    bottom: 15px;
+    right: 15px;
+    padding: 30px;
+    background-color: rgba(0,0,0,0.5);
+    background-image: url(yukari.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    border-radius: 5px;
+    display: block;
+    z-index: 9999;
+}
+#slider{
+    position: absolute;
+width: 1561px;
+height: 471px;
+left: 180px;
+top: 40px;
+
+}
+
+#ci{
+    position: absolute;
+width: 1928px;
+height: 0px;
+left: -8px;
+top: 2672px;
+
+border: 1px solid #000000;
+}
+#anas{
+    position: absolute;
+width: 213px;
+height: 48px;
+left: 634px;
+top: 2718px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+
+color: #000000;
+}
+
+#kutubos{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 526px;
+height: 47px;
+left: 825px;
+top: 2859px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+}
+#siyahkutu{
+    position: absolute;
+width: 163px;
+height: 47px;
+left: 1199px;
+top: 2859px;
+
+background: #000000;
+}
+#dont{
+    position: absolute;
+width: 178px;
+height: 29px;
+left: 961px;
+top: 2807px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+
+}
+#kayitol{
+    position: absolute;
+width: 135px;
+height: 29px;
+left: 1243px;
+top: 2868px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #FFFFFF;
+
+}
+
+#altyazi{
+    position: absolute;
+width: 557px;
+height: 50px;
+left: 906px;
+top: 2930px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+
+}
+i {
+    position: relative;
+    display: block;
+    width: 500px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 5px;
+    width: 1000px;
+    height: 600px;
+    top: 200px;
+    left: 300px;
+
+}
+
+i:before, i:after {
+    content: '⥪';
+    position: absolute;
+    top: 50%;
+    left: 1rem;
+    z-index: 2;
+    width: 2rem;
+    height: 2rem;
+    background: rgb(0, 0, 0);
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    pointer-events: none;
+}
+
+i:after {
+    content: '⥭';
+    left: auto;
+    right: 1rem;
+}
+
+/* I haven't found a way for IE and Edge to let me style inputs that way */
+input {
+    appearance: none;
+    -ms-appearance: none;
+    -webkit-appearance: none;
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transform: translateX(100%);
+    transition: transform ease-in-out 400ms;
+    z-index: 1;
+}
+
+input:focus {
+    outline: none;
+}
+
+input:after {
+    content: attr(title);
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    background-color: rgba(0,0,0,0.4);
+    color: white;
+    padding: .5rem;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+
+input:not(checked):before {
+    content: '';
+    position: absolute;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    top: 50%;
+    left: calc(-100% + 1rem);
+}
+
+input:checked:before {
+    display: none;
+    left: 1rem;
+}
+
+input:checked {
+    transform: translateX(0);
+    pointer-events: none;
+    z-index: 0;
+    box-shadow: -5px 10px 20px -15px rgba(0,0,0,1);
+}
+
+input:checked + input:before {
+    left: -3rem;
+}
+
+input:checked + input ~ input:before {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#menutoggle {
+    opacity: 0;
+  }
+  #menutoggle:checked + .menubtn > span {
+    transform: rotate(45deg);
+  }
+  #menutoggle:checked + .menubtn > span::before {
+    top: 0;
+    transform: rotate(0deg);
+  }
+  #menutoggle:checked + .menubtn > span::after {
+    top: 0;
+    transform: rotate(90deg);
+  }
+  #menutoggle:checked ~ .menubox {
+    left: 0 !important;
+  }
+  .menubtn {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 1625px;
+    top: 37px;
+    z-index: 5;
+
+  }
+  .menubtn > span,
+  .menubtn > span::before,
+  .menubtn > span::after {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: #000000;
+    transition-duration: .25s;
+    z-index: 5;
+  }
+  .menubtn > span::before {
+    content: '';
+    top: -8px;
+    z-index: 5;
+  }
+  .menubtn > span::after {
+    content: '';
+    top: 8px;
+    z-index: 5;
+  }
+  .menubox {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: -100%;
+    width: 300px;
+    height: 100%;
+    margin: 0;
+    padding: 80px 0;
+    list-style: none;
+    background-color: #ECEFF1;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, .4);
+    transition-duration: .25s;
+    z-index: 5;
+  }
+  .menuitem {
+    display: block;
+    padding: 12px 24px;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    transition-duration: .25s;
+    z-index: 5;
+  }
+  .menuitem:hover {
+    background-color: #CFD8DC;
+  }
+
+  #scrolltop {
+	position: fixed;
+    bottom: 15px;
+    right: 15px;
+    padding: 30px;
+    background-color: rgba(0,0,0,0.5);
+    background-image: url(yukari.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    border-radius: 5px;
+    display: block;
+    z-index: 9999;
+}
